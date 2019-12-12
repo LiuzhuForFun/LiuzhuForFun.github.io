@@ -9,11 +9,11 @@ of Technology, Dalian, China.
 ### The Honors of Undergraduate
 1. National Scholarships （2017.10/2018.10）
 2. Merit Student of DUT (2016,2017,2018)
-3. Scholarship of Academic Excellence (2016(Grade 2)，2017(Grade 1)，2018(Grade 1))
-4. Scholarship of Social Practice (2016,2017,2018)
-5. Scholarship of Innovation (2017,2018)
-5. Scholarship of Lingshui (2016(Grade 2))
-6. Outstanding Graduate of LiaoNing
+3. Scholarships of Academic Excellence (2016(Grade 2)，2017(Grade 1)，2018(Grade 1))
+4. Scholarships of Social Practice (2016,2017,2018)
+5. Scholarships of Innovation (2017,2018)
+5. Scholarships of Lingshui (2016(Grade 2))
+6. One of “Outstanding Graduated students of LiaoNing”
 
 ## Postgraduate：
 - struggling for paper.............
