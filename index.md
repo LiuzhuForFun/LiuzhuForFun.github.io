@@ -1,5 +1,4 @@
 ## Liu Zhu
-
 # 刘铸
 ## Liu Zhu
 - Software engineering (Bachelor),He is currently pursuing the
@@ -7,7 +6,7 @@
 of Technology, Dalian, China.
 - Email: dglz2015@mail.dlut.edu.cn
 - Interest: Optical flow estimation, image processing and echancement
-### The honors of Undergraduate
+### The Honors of Undergraduate
 1. National Scholarships （2017.10/2018.10）
 2. Merit Student of DUT (2016,2017,2018)
 3. Scholarship of Academic Excellence (2016(Grade 2)，2017(Grade 1)，2018(Grade 1))
