@@ -14,6 +14,7 @@ of Technology, Dalian, China.
 4. Scholarship of Social Practice (2016,2017,2018)
 5. Scholarship of Innovation (2017,2018)
 5. Scholarship of Lingshui (2016(Grade 2))
+6. Outstanding Graduate of LiaoNing
 ### The Social practice of Undergraduate
 1. 参加暑期支教活动
 2. 大连理工大学软件学院优秀志愿者（学年参与志愿活动30 余次）
