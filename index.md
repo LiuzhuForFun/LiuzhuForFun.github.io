@@ -4,7 +4,7 @@
 - Software engineering (Bachelor),He is currently pursuing the
 	master degree in software engineering at Dalian University
 of Technology, Dalian, China.
-- Email: dglz2015@mail.dlut.edu.cn
+- Email: liuzhu_dlut@mail.dlut.edu.cn
 - Interest: Optical flow estimation, image processing and echancement
 ### The Honors of Undergraduate
 1. National Scholarships （2017.10/2018.10）
